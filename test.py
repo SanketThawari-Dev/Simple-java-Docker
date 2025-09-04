@@ -1,1 +1,1 @@
-print"teri bhendi fudi!! V11");
+print("teri bhendi fudi!! V11")
